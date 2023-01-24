@@ -1,0 +1,24 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ezzywealth/jest-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ezzywealth/jest-test/issues"
+  },
+  "homepage": "https://github.com/Ezzywealth/jest-test#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
